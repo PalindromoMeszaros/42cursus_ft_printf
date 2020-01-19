@@ -14,5 +14,4 @@ ft_printf must achieve the following mandatory requirements:
 * Manage the precision
   
 Standard library functions can't be used. We are able to use any function made by ourselves and included in ft_libft. We can use the functions `write`, `malloc`, `free` & `exit`
-The function must conform to 42's norm.  
-``
+The function must conform to 42's norm.
