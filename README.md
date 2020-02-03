@@ -1,4 +1,4 @@
-# ft_printf
+# 42Madrid School ft_printf project
 ### Mandatory: Score 100/100
 ### Bonus: Not made
 ***
